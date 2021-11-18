@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" GENERATION_OPTIONS="-DCATKIN_PREFIX_DEVEL=../../devel" GENERATION_DIR="../../build" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5edb0c1-a932-4241-a17a-403ac945fde8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/rm_template" />
+  </component>
+  <component name="ProjectId" id="20xPDECRkpSkvQnTEBpkbf1jXUy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/doc" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/doc" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/catkin_example1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/catkin_example1/src" />
+      <recent name="$PROJECT_DIR$/src/catkin_example1/include/ExampleHeadFile" />
+      <recent name="$PROJECT_DIR$/src/catkin_example1/include" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5edb0c1-a932-4241-a17a-403ac945fde8" name="Default Changelist" comment="" />
+      <created>1636983143321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636983143321</updated>
+      <workItem from="1636983144441" duration="17000" />
+      <workItem from="1636983253968" duration="2094000" />
+      <workItem from="1636986079801" duration="11283000" />
+      <workItem from="1637058912706" duration="20594000" />
+      <workItem from="1637141518136" duration="9032000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="821" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1637062098664">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="821" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.988@0.27.1920.988" timestamp="1637062098664" />
+    <state x="743" y="278" width="424" height="484" key="FileChooserDialogImpl" timestamp="1637030046856">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="743" y="278" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.988@0.27.1920.988" timestamp="1637030046856" />
+    <state width="1866" height="190" key="GridCell.Tab.0.bottom" timestamp="1637137553343">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1866" height="190" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1637137553343" />
+    <state width="1866" height="190" key="GridCell.Tab.0.center" timestamp="1637137553341">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1866" height="190" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1637137553341" />
+    <state width="1866" height="190" key="GridCell.Tab.0.left" timestamp="1637137553339">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1866" height="190" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1637137553339" />
+    <state width="1866" height="190" key="GridCell.Tab.0.right" timestamp="1637137553342">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1866" height="190" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1637137553342" />
+    <state x="834" y="203" key="SettingsEditor" timestamp="1637026454654">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="834" y="203" key="SettingsEditor/0.27.1920.988@0.27.1920.988" timestamp="1637026454654" />
+  </component>
+</project>
