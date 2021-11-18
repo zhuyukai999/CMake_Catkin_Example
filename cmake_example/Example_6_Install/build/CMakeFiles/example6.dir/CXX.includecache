@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/otherfile/OtherFile.h
+
+/home/zyk/CMake_Catkin_Example/cmake_example/Example_6_Install/OtherFile.cpp
+include/otherfile/OtherFile.h
+/home/zyk/CMake_Catkin_Example/cmake_example/Example_6_Install/include/otherfile/OtherFile.h
+
+/home/zyk/CMake_Catkin_Example/cmake_example/Example_6_Install/include/otherfile/OtherFile.h
+
+/home/zyk/CMake_Catkin_Example/cmake_example/Example_6_Install/main.cpp
+iostream
+-
+otherfile/OtherFile.h
+/home/zyk/CMake_Catkin_Example/cmake_example/Example_6_Install/otherfile/OtherFile.h
+

@@ -1,0 +1,5 @@
+/usr/local/bin/example6/example6
+/usr/local/lib/example6/libexample6_core.a
+/usr/local/include/example6/otherfile/OtherFile.h
+/usr/local/share/example6/doc/timg.jpg
+/usr/local/share/example6/doc/example.jpg

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="example4" targetName="libanswer" />
+      <config projectName="example4" targetName="example4" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6045841e-6c3f-4d15-ab5a-6311c3bc0eed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/example_2_addLibrary/modern-cmake-by-example" />
+  </component>
+  <component name="OCResolveContextSettings">
+    <option name="configuration" value="0-Debug-example3" />
+  </component>
+  <component name="ProjectId" id="20uFVFVzZ944SGK7gNQNqKDwHhC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Example_5_CatchString" />
+      <recent name="$PROJECT_DIR$/Example_4_ThirdPartLib" />
+      <recent name="$PROJECT_DIR$/example_3_setAndIncludeDirectories" />
+      <recent name="$PROJECT_DIR$/example_3_setAndIncludeDirectories/answer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Example_3_SetAndIncludeDirectories/Folder/src" />
+      <recent name="$PROJECT_DIR$/Example_3_SetAndIncludeDirectories/Folder/include/OtherFile" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="example4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="example4" TARGET_NAME="example4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="example4" RUN_TARGET_NAME="example4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6045841e-6c3f-4d15-ab5a-6311c3bc0eed" name="Default Changelist" comment="" />
+      <created>1636886587437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636886587437</updated>
+      <workItem from="1636886588667" duration="18486000" />
+      <workItem from="1636980133169" duration="1584000" />
+      <workItem from="1636982040112" duration="633000" />
+      <workItem from="1636983856966" duration="622000" />
+      <workItem from="1636986078723" duration="1098000" />
+      <workItem from="1637030049371" duration="10933000" />
+      <workItem from="1637046645743" duration="94000" />
+      <workItem from="1637065220834" duration="12295000" />
+      <workItem from="1637151254934" duration="2887000" />
+      <workItem from="1637159496722" duration="754000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1637033486384">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.988@0.27.1920.988" timestamp="1637033486384" />
+    <state x="693" y="266" width="524" height="507" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1636890583236">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="693" y="266" width="524" height="507" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.988@0.27.1920.988" timestamp="1636890583236" />
+    <state x="626" y="239" width="658" height="561" key="#libanswer" timestamp="1636891706806">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="626" y="239" width="658" height="561" key="#libanswer/0.27.1920.988@0.27.1920.988" timestamp="1636891706806" />
+    <state x="743" y="278" width="424" height="484" key="FileChooserDialogImpl" timestamp="1637163782101">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="743" y="278" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.988@0.27.1920.988" timestamp="1637163782101" />
+    <state width="1866" height="156" key="GridCell.Tab.0.bottom" timestamp="1637141516696">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1866" height="156" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1637141516696" />
+    <state width="1866" height="156" key="GridCell.Tab.0.center" timestamp="1637141516695">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1866" height="156" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1637141516695" />
+    <state width="1866" height="156" key="GridCell.Tab.0.left" timestamp="1637141516694">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1866" height="156" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1637141516694" />
+    <state width="1866" height="156" key="GridCell.Tab.0.right" timestamp="1637141516696">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1866" height="156" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1637141516696" />
+    <state x="623" y="241" width="672" height="678" key="search.everywhere.popup" timestamp="1637039278951">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="623" y="241" width="672" height="678" key="search.everywhere.popup/0.27.1920.988@0.27.1920.988" timestamp="1637039278951" />
+  </component>
+</project>

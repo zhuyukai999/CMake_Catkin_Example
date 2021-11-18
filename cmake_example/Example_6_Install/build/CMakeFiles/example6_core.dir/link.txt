@@ -1,0 +1,2 @@
+/usr/bin/ar qc libexample6_core.a  CMakeFiles/example6_core.dir/main.cpp.o CMakeFiles/example6_core.dir/OtherFile.cpp.o
+/usr/bin/ranlib libexample6_core.a
